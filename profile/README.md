@@ -2,7 +2,7 @@
 
 Streamsora is a user-friendly anime streaming website that allows anime enthusiasts to discover and enjoy their favorite anime series and movies. This README provides a brief overview of the project to help you get started.
 
-Features
+# Features
 
 	•	Vast Anime Library: Streamsora boasts a diverse collection of anime series and movies, ensuring there’s something for every anime fan.
 	•	User Registration: Users can create accounts, personalize their profiles, and keep track of their favorite shows.
