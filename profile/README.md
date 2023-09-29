@@ -4,12 +4,13 @@ Streamsora is a user-friendly anime streaming website that allows anime enthusia
 
 # Features
 
-	•	Vast Anime Library: Streamsora boasts a diverse collection of anime series and movies, ensuring there’s something for every anime fan.
-	•	User Registration: Users can create accounts, personalize their profiles, and keep track of their favorite shows.
-	•	Search and Filters: Easily find anime titles by using the search function or apply filters based on genre, release year, and more.
-	•	Streaming Quality: Enjoy anime in high-quality streaming, up to 1080p, for an immersive viewing experience.
-	•	Responsive Design: Streamsora is designed to work seamlessly on desktops, tablets, and mobile devices.
-	•	Recommendations: Get personalized anime recommendations based on your viewing history and preferences.
+Vast Anime Library: Streamsora boasts a diverse collection of anime series and movies, ensuring there’s something for every anime fan.
+
+- User Registration: Users can create accounts, personalize their profiles, and keep track of their favorite shows.
+- Search and Filters: Easily find anime titles by using the search function or apply filters based on genre, release year, and more.
+- Streaming Quality: Enjoy anime in high-quality streaming, up to 1080p, for an immersive viewing experience.
+- Responsive Design: Streamsora is designed to work seamlessly on desktops, tablets, and mobile devices.
+- Recommendations: Get personalized anime recommendations based on your viewing history and preferences.
 
 # Contributing
 
